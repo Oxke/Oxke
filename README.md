@@ -7,6 +7,5 @@
 - 🎵 Fun fact, I also play violin and viola
 - 📫 You can reach me at
   [osea.fracchia@iusspavia.it](mailto:osea.fracchia@iusspavia.it), [gpg
-  key 31464411](https://oxke.altervista.org/gpg/9EAD12221765F1A5E944AB755D24F96031464411.pub)
-  
-  full gpg fingerprint `9EAD 1222 1765 F1A5 E944  AB75 5D24 F960 3146 4411`
+  key](https://oxke.altervista.org/gpg/9EAD12221765F1A5E944AB755D24F96031464411.pub)
+  `9EAD 1222 1765 F1A5 E944  AB75 5D24 F960 3146 4411`
